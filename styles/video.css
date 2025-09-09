@@ -1,0 +1,47 @@
+
+.thumnails {
+    width: 100%;
+}
+.video-title {
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+.video-author {
+    color: rgb(170, 170, 170);
+    display: block;
+    font-size: 15px;
+}
+.video-stats {
+    color: rgb(170, 170, 170);
+    display: block;
+    font-size: 13px;
+    margin-top: 5px;
+}
+.channel-pics {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+    margin-top: 0;
+}
+.channel-info {
+    display: inline-block;
+    width: 245px;
+}
+.profile-pic {
+    width: 40px;
+    border-radius: 50px;
+}
+.thumnails-row {
+    margin-bottom: 12px;
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 40px;
+    padding-left: 100px;
+}
