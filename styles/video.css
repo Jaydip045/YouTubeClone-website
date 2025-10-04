@@ -33,6 +33,7 @@
 .title {
     text-decoration-line: none;
     color: black;
+    background-color: lightblue;
 }
 .channel {
     background-color: lightpink;
