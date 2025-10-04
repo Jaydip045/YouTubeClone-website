@@ -36,6 +36,7 @@
 }
 .channel {
     text-decoration-line: none;
+    color: pink;
 }
 .profile-pic {
     width: 40px;
