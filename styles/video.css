@@ -30,6 +30,13 @@
     display: inline-block;
     width: 245px;
 }
+.title {
+    text-decoration-line: none;
+    color: black;
+}
+.channel {
+    text-decoration-line: none;
+}
 .profile-pic {
     width: 40px;
     border-radius: 50px;
